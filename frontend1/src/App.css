@@ -1,0 +1,48 @@
+
+label{
+  color:white
+}
+.circle {
+  width: 200px; 
+  height: 200px;
+  border-radius: 50%; 
+  background-image:url("https://png.pngtree.com/thumb_back/fh260/background/20210115/pngtree-big-sale-special-offer-yellow-background-round-image_524858.jpg");
+  /* background-color: pink;  */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding:10px;
+}
+.card{
+  width: 200px; 
+  height: 200px;
+  border-radius: 10%; 
+  background-color: pink; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+.img{
+  background-image:url("https://t3.ftcdn.net/jpg/00/29/13/38/360_F_29133877_bfA2n7cWV53fto2BomyZ6pyRujJTBwjd.jpg");
+}
+.my-swal {
+  background-color: #3498db; /* Your desired background color */
+}
+
+.my-title {
+  color: #ffffff; /* Your desired font color */
+  font-family: 'Arial', sans-serif; /* Your desired font style */
+}
+
+.my-popup {
+  background-image: url('https://media.istockphoto.com/id/1299174509/photo/orange-butterfly-oriental-striped-tiger-on-yellow-cosmos-flower-with-blurred-yellow-background.webp?b=1&s=612x612&w=0&k=20&c=GFsMSZbCFXw0iySwhfwa06-ocjsB-j6qiVGFxAXapp0=');
+  background-size: cover;
+  background-position: center;
+  width: 330px; 
+  height: 300px;
+  border-radius: 50% 50%;
+}
+
+
+
